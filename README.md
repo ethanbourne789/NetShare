@@ -15,4 +15,4 @@
 <br>
 #工具分享<br>
 非常好用的FLClash，多端适配，电脑以及Android 都可以使用<br >
-[FLClash］(https://github.com/chen08209/FlClash/releases "访问网站")<br> 
+[FLClash](https://github.com/chen08209/FlClash/releases "访问网站")<br> 
