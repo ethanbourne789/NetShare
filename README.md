@@ -1,6 +1,18 @@
 # Share
 科学上网.机场分享.学习专用<br> 
 #机场分享<br>
+
+**免费机场**<br> 
+每日签到送流量<br> 
+[PortX](https://portal.eask.ink/auth/register?code=R7dd "访问网站")<br> 
+
+| 套餐（元/月） | 每月流量（GB） |
+| ----------- | ----------- |
+| 5   | 30      |
+
+每日签到大概送1GB流量，日常学习够用<br> 
+
+
 无敌**性价比**之王<br> 
 [赔钱机场](https://dash.pqjc.site/#/register?code=Jr2Qrx83 "访问网站")<br> 
 
